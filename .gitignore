@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+.dagshub
+.DS_Store
+.idea/
+.venv/
+
+*.pt
+
+__pycache__
+
+generated/
+Default/
+mlruns/
+custom_yolo*.yaml
+/data/
+ActiveLearning/
